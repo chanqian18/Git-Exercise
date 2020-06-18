@@ -1,0 +1,4 @@
+Lysozyme      Chicken LYSCHIC P00698
+Lysozyme      Human   LYSHUMAN[A[DK[A[B[B[A[B[A P00698[B[D[D[D[D[D[DP61626
+Hemoglobin-alpha[A[D[D [DH  [A[D[D[D                       [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DChicken LYSCHICK P00698 [D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D   H  an   LYSHUMAN P61626[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dum[B[D[D[DHuman   HBAHUMAN P69905
+Hemoglobin-beta  Human   HBBHUMAN P68871
