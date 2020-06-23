@@ -6,4 +6,4 @@ PFKM             Human   PFKAMHUMAN P08237
 Pfkm             Mouse   PFKAMMOUSE P47857
 
 another mistake here 
-and so another one jsut to be sure
+
