@@ -1,0 +1,9 @@
+Lysozyme         Chicken LYSCHIC    P00698
+Lysozyme         Human   LYSHUMAN   P61626
+Hemoglobin-alpha Human   HBAHUMAN   P69905
+Hemoglobin-beta  Human   HBBHUMAN   P68871
+PFKM             Human   PFKAMHUMAN P08237
+Pfkm             Mouse   PFKAMMOUSE P47857
+
+another mistake here 
+
